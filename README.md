@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🚀 Passionate about making machines smarter through AI & ML, while crafting incredible innovations! 💡 As a fullstack wizard ✨, I thrive on designing and building products with real-world impact. 🌟 <br><br>My mission? Creating meaningful projects that push boundaries and solve actual problems! 🎯<br><br>Whether it's training models or architecting elegant solutions, I'm all about bringing ideas to life with code and creativity. 💻✨ Let's build the future together! 🤖🔮</h4>
+<p align="left">🚀 Passionate about making machines smarter through AI & ML, while crafting incredible innovations! 💡 As a fullstack wizard ✨, I thrive on designing and building products with real-world impact. 🌟 <br><br>My mission? Creating meaningful projects that push boundaries and solve actual problems! 🎯<br><br>Whether it's training models or architecting elegant solutions, I'm all about bringing ideas to life with code and creativity. 💻✨ Let's build the future together! 🤖🔮</p>
 
 ###
 
