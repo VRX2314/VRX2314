@@ -1,5 +1,7 @@
 <h1 align="left">Hello 🙌 I am Vansh 👋</h1>
 
+Currently Active on my Work Profile: <a href="https://github.com/VRX-Work?tab=overview&from=2024-10-01&to=2024-10-31">VRX-Work</a>
+
 ###
 
 <p align="left">🚀 Passionate about making machines smarter through AI & ML, while crafting incredible innovations! 💡 As a fullstack wizard ✨, I thrive on designing and building products with real-world impact. 🌟 <br><br>My mission? Creating meaningful projects that push boundaries and solve actual problems! 🎯<br><br>Whether it's training models or architecting elegant solutions, I'm all about bringing ideas to life with code and creativity. 💻✨ Let's build the future together! 🤖🔮</p>
